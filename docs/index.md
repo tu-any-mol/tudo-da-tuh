@@ -1,13 +1,14 @@
-# Tudo da Tuh
+# Tudo da Tuh :smiley_cat: :books: :smile_cat:
 
+Portal com conteúdos de língua portuguesa e registros de atividades em sala de aula.
 
 
 
 ## Materiais
 
-* item 1
-* item 2
-* item 3
+* :books: Literatura 
+* :writing_hand_tone3: Autores
+* :bulb: Atividades em sala
 
 
 
