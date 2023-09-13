@@ -3,7 +3,8 @@ site_name: Tudo da Tuh
 theme:
   name: material
   favicon: images/cat_favicon.png
-  logo: assets/cat_logo.png
+  icon:
+    logo: assets/cat_logo.png
 
   language: pt-BR
   features:
