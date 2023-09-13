@@ -4,7 +4,7 @@ theme:
   name: material
   favicon: images/cat_favicon.png
   icon:
-    logo: assets/cat_logo.png
+    logo: material/cat
 
   language: pt-BR
   features:
