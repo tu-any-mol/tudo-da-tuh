@@ -1,6 +1,6 @@
 # Contato
 
-<p align="center"> <img src="tuh.jpg" alt="personal_image" width="100" height="100"/> </p>
+<p align="center"> <img src="tuh.png" alt="personal_image" width="100" height="100"/> </p>
 
 
 :e-mail: tudodatu@gmail.com
