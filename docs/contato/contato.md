@@ -4,6 +4,7 @@
 
 ![personal_image](https://github.com/tudo-da-tu/tudo-da-tu.github.io/blob/main/docs/contato/tuh.png)
 
+![pers_img](tuh.png)
 
 :e-mail: tudodatu@gmail.com
 
