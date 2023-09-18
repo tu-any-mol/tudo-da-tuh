@@ -17,8 +17,10 @@ Ele pertenca ao ˋnaturalismoˋ
 
 Trecho da obra **cortiço**: 
 
-ˋˋˋ
-Sed erat orci, luctus a diam quis, eleifend placerat purus. Pellentesque congue ornare ipsum id lacinia. Donec et purus sed odio finibus faucibus vel sit amet tellus. Aliquam dictum odio sit amet sagittis auctor. Vivamus consectetur nunc eu quam sagittis, vitae efficitur lorem condimentum. Vestibulum eget felis sit amet augue lacinia tempor. Nulla id orci aliquam, varius nibh nec, pretium ligula. Mauris ut lacus vel risus ultrices auctor a porta ipsum. Curabitur iaculis tristique ante in fringilla. Nulla rutrum mauris id justo convallis, eu tristique quam tempus. Vestibulum arcu massa, dignissim imperdiet justo ac, ultrices blandit magna. Mauris ante mi, dictum id consectetur id, efficitur ac velit. Donec vestibulum metus vitae convallis vehicula.
+```
+Sed erat orci, luctus a diam quis, eleifend placerat purus. Pellentesque congue ornare ipsum id lacinia. Donec et purus sed odio finibus faucibus vel sit amet tellus. Aliquam dictum odio sit amet sagittis auctor. Vivamus consectetur nunc eu quam sagittis, vitae efficitur lorem condimentum. Vestibulum eget felis sit amet augue lacinia tempor. Nulla id orci aliquam, varius nibh nec, pretium ligula. Mauris ut lacus vel risus ultrices auctor a porta ipsum. Curabitur iaculis tristique ante in fringilla. Nulla rutrum mauris id justo convallis, eu tristique quam tempus. Vestibulum arcu massa, dignissim imperdiet justo ac, ultrices blandit magna. Mauris ante mi, dictum id 
+consectetur id, efficitur ac velit. Donec vestibulum metus vitae convallis vehicula.
+
 ˋˋˋ
 
 
