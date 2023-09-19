@@ -13,15 +13,18 @@ blablabla
 * fim da vida
 
 
-Ele pertenca ao ˋnaturalismoˋ
+Ele pertenca ao `naturalismo`
 
 Trecho da obra **cortiço**: 
 
 ```
-Sed erat orci, luctus a diam quis, eleifend placerat purus. Pellentesque congue ornare ipsum id lacinia. Donec et purus sed odio finibus faucibus vel sit amet tellus. Aliquam dictum odio sit amet sagittis auctor. Vivamus consectetur nunc eu quam sagittis, vitae efficitur lorem condimentum. Vestibulum eget felis sit amet augue lacinia tempor. Nulla id orci aliquam, varius nibh nec, pretium ligula. Mauris ut lacus vel risus ultrices auctor a porta ipsum. Curabitur iaculis tristique ante in fringilla. Nulla rutrum mauris id justo convallis, eu tristique quam tempus. Vestibulum arcu massa, dignissim imperdiet justo ac, ultrices blandit magna. Mauris ante mi, dictum id 
-consectetur id, efficitur ac velit. Donec vestibulum metus vitae convallis vehicula.
-
-ˋˋˋ
+João Romão foi, dos treze aos vinte e cinco anos, empregado de um vendeiro
+ que enriqueceu entre as quatro paredes de uma suja e obscura taverna nos 
+ refolhos do bairro do Botafogo; e tanto economizou do pouco que ganhara 
+ nessa dúzia de anos, que, ao retirar-se o patrão para a terra, lhe deixou, 
+ em pagamento de ordenados vencidos, nem só a venda com o que estava dentro, 
+ como ainda um conto e quinhentos em dinheiro.
+```
 
 
 _tal tal tal editora fontes sp 1989_
