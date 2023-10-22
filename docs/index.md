@@ -11,7 +11,6 @@ Donec id congue augue. Sed sed velit vel lectus fringilla interdum id at nulla. 
 ## Materiais
 
 * :books: Literatura 
-* :writing_hand_tone3: Autores
 * :bulb: Atividades em sala
 
 

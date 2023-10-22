@@ -97,7 +97,7 @@ markdown_extensions:
   
 nav:
   - Início: index.md
-  - Escolas literárias:
+  - Escolas Literárias:
     - Trovadorismo: escolas-literarias/trovadorismo.md
     - Humanismo: escolas-literarias/humanismo.md
     - Classicismo: escolas-literarias/classicismo.md
@@ -106,16 +106,10 @@ nav:
     - Romantismo: escolas-literarias/romantismo.md
     - Realismo: escolas-literarias/realismo.md
     - Naturalismo: escolas-literarias/naturalismo.md
-  - Grandes Autores :
-    - José de Alencar: grandes-autores/jose-de-alencar.md
-    - Machado de Assis: grandes-autores/machado-de-assis.md
-    - Olavo-bilac: grandes-autores/olavo-bilac.md
-    - Aluísio Azevedo: grandes-autores/aluisio-azevedo.md
-    - Rimbaud: grandes-autores/rimbaud.md
   - Atividades em sala:
-    - Clube de ciências: atividades-em-sala/clube-ciencias.md
-    - Produtos de beleza: atividades-em-sala/produtos-beleza.md
-    - Teatro Frankstein: atividades-em-sala/teatro-frankstein.md
+    - Clubes de Ciências: atividades-em-sala/clube-ciencias.md
+    - A Química da Beleza: atividades-em-sala/produtos-beleza.md
+    - Teatro Frankenstein: atividades-em-sala/teatro-frankstein.md
   - Contato:
     - Contato: contato/contato.md
 
